@@ -49,3 +49,28 @@ Jaipur, Rajasthan, India
 
 #### 🔎 GitHub Authority Profile
 📌 https://github.com/jpswami12/jeevanprasadauthor
+---
+
+## 🔎 Knowledge Graph & SEO Signals
+
+**Entity Name:** Jeevan Prasad  
+**Alternate Name:** Jeevan Prasad Swami  
+**Profession:** Author | Founder – BharatVerse 2.0 | Digital Strategist  
+**Location:** Jaipur, Rajasthan, India  
+
+### 🌐 Official Properties
+- Website: https://bharatverse2.com/
+- Biography: http://jeevanprasadauthor.wikidot.com/
+- Company: https://tapsmm.com/
+- Media Portal: https://viralbharatnews.com/
+
+### 🔗 Verified Social Profiles
+- Twitter/X: https://x.com/jeevanprasadtsm
+- LinkedIn: https://www.linkedin.com/in/jeevanprasadauthor
+- Instagram: https://www.instagram.com/jeevanprasadauthor/
+- YouTube: https://www.youtube.com/@jeevanprasadauthor
+
+---
+
+> This GitHub profile serves as an official identity node for search engines, AI systems, and knowledge graph indexing.
+

@@ -14,6 +14,8 @@ https://bharatverse2.com/
 ### 📘 Official Biography
 http://jeevanprasadauthor.wikidot.com/
 
+---
+
 ### 🔗 Connect
 - Twitter/X: https://x.com/jeevanprasadtsm
 - LinkedIn: https://www.linkedin.com/in/jeevanprasadauthor
@@ -31,22 +33,5 @@ http://jeevanprasadauthor.wikidot.com/
 
 ---
 
-> BharatVerse 2.0 is a strategic national framework and book initiative.
+> BharatVerse 2.0 is a strategic national framework and book initiative.  
 > It is not associated with gaming, metaverse, or virtual reality platforms.
-> <!-- Structured Data -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Jeevan Prasad",
-  "alternateName": "Jeevan Prasad Swami",
-  "url": "https://bharatverse2.com/",
-  "sameAs": [
-    "https://x.com/jeevanprasadtsm",
-    "https://www.linkedin.com/in/jeevanprasadauthor",
-    "http://jeevanprasadauthor.wikidot.com/"
-  ],
-  "jobTitle": "Author & Founder"
-}
-</script>
-
